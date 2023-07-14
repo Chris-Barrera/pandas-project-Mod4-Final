@@ -1,0 +1,20 @@
+﻿Report of Module 4
+PyCitySchool
+By Christian T. Barrera
+
+
+        As the assignment says we are acting as the chief data analyst for the school district and are tasked with finding insights to make strategic decisions regarding future school budgets and priorities. We are aggregating data from the 15 schools in our district and will be using math and reading scores as our academic stand ins.
+
+
+District Summary
+District wide we have 39,170 students in 15 schools, who have an average math score of 78.99 with 74.98 percent of students passing with a score of above 70. Our students have an average reading score of 81.88 with 85.81percent of students passing with a score of above 70. The percentage of students who have scored above 70 for both math and reading is 65.17. This suggests that most students are passing either math or reading but there are much less who are passing both.   
+
+
+Summary by various groupings
+        When grouped by spending we can see that the lower the spending range per student  the better the scores are. With the lowest spending range per student of less than $585 having the highest percentage of overall passing at a spectacular 90%
+        Overall across many groupings the reading score is usually higher than the reading scores. This suggests that more schools could benefit from more math tutoring or supplemental courses.  To increase the overall passing rate, getting the math scores closer to the reading scores will improve the amount of students who passed both reading and math. 
+        When looked at by school types Charter schools have better averages and a higher overall passing rate than do District schools. It also seems that the smaller the school size also indicates better averages and overall passing rates. So together small Charter schools do better than large District schools. The top five schools are small Charter schools and the bottom five schools are large District schools.
+
+
+In Conclusion
+Across the board small Charter schools outperform large District schools while spending less per student. Small Charter schools have higher average scores and a higher overall passing rate. District type schools should be able to increase their overall passing rate by maintaining  or increasing their reading scores and increasing their math scores. The data suggest that overwhelmingly small Charter schools consistently outperform large District schools across many measurements.
